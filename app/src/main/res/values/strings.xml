@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesT ResT</string>
+     <string name="title_activity_tom_tom">TEST</string>
+    <string name="textoBtn">Presione</string>
+</resources>
