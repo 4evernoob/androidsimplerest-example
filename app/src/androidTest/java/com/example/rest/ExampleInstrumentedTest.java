@@ -1,4 +1,4 @@
-package com.example.reattlaxiaco;
+package com.example.rest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

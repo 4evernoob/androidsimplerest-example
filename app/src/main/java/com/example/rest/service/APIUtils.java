@@ -1,4 +1,4 @@
-package com.example.reattlaxiaco;
+package com.example.rest.service;
 
 public class APIUtils {
     private APIUtils() {}

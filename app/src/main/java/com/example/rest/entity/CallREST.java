@@ -1,4 +1,4 @@
-package com.example.reattlaxiaco;
+package com.example.rest.entity;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
